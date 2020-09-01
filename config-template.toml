@@ -3,8 +3,8 @@ slack_token = ""
 
 [target_channels.ten_minutes]
 channel_id = ""
-timer = "10m"
+timer = 600 # 10min
 
 [target_channels.one_day]
 channel_id = ""
-timer = "1d"
+timer = 38400 # 1day
