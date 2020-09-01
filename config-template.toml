@@ -1,0 +1,10 @@
+
+slack_token = ""
+
+[target_channels.ten_minutes]
+channel_id = ""
+timer = "10m"
+
+[target_channels.one_day]
+channel_id = ""
+timer = "1d"
